@@ -20,7 +20,24 @@ a {
     color:cadetblue;
 }
 
-/* animation */
+
+/*aligning bottom centre*/
+.bottom {
+    font-size: 40px
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+}
+
+/*Image Background*/
+.pic {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+    
+/* animation 
 
 @-webkit-keyframes slideInDown {
   from {
@@ -73,6 +90,6 @@ a {
   animation-name: fadeInDown;
 }
 
-    
+ */   
         
     
